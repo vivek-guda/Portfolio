@@ -117,7 +117,7 @@ body {
 }
 
 .container {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     text-align: left;
 }
@@ -167,7 +167,7 @@ body {
     grid-template-areas:
         "pr1 pr2"
         "pr1 pr3";
-    grid-gap: 1rem;
+    grid-gap: 1.5rem;
 }
 
 #pr1 {
