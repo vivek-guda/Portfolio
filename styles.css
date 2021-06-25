@@ -240,6 +240,8 @@ body {
 }
 .gc2 div h4 {
     margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.5rem;
 }
 
 .btn {
