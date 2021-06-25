@@ -126,6 +126,14 @@ body {
     margin: 1rem 2rem;
 }
 
+.border {
+    border-bottom: 1px solid var(--txt-gray);
+}
+
+.section p {
+    margin-bottom: 3rem;
+}
+
 .headings {
     font-family: "Montserrat", sans-serif;
     color: var(--reddishpink);
