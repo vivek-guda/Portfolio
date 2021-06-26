@@ -137,6 +137,7 @@ body {
 .about {
     font-family: "Montserrat", sans-serif;
     font-size: 1.75rem;
+    margin: 0 2rem;
 }
 
 .about h1 {
