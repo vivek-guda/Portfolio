@@ -272,6 +272,10 @@ body {
     font-size: 1.5rem;
 }
 
+.gc2 p {
+    margin-bottom: 0;
+}
+
 .btn {
     text-decoration: none;
     color: white;
