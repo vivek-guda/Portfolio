@@ -258,11 +258,24 @@ body {
     background-color: var(--reddishpink);
     padding: 0.75rem 1.5rem;
     border-radius: 0.5rem;
+    border: 3px solid var(--reddishpink);
     transition: 0.5s;
 }
 
-.btn:hover {
-    opacity: 0.9;
+.btn:hover,
+.secondary-btn:hover {
+    opacity: 0.8;
+}
+
+.secondary-btn {
+    text-decoration: none;
+    color: var(--reddishpink);
+    padding: 0.75rem 1.5rem;
+    margin-left: 1rem;
+    border: 3px solid var(--reddishpink);
+    border-radius: 0.5rem;
+    font-weight: bold;
+    transition: 0.5s;
 }
 
 #right-arrow-img {
