@@ -232,6 +232,7 @@ body {
     background-image: url(./images/emoji.jpg);
 }
 .parent {
+    /* border: 2px solid var(--nightsky); */
     border-radius: 0.5rem;
     overflow: hidden;
     position: relative;
