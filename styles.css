@@ -132,7 +132,7 @@ body {
 }
 
 .border {
-    border-bottom: 1px solid var(--txt-gray);
+    border-top: 1px solid var(--txt-gray);
 }
 
 .section p {
@@ -233,7 +233,6 @@ body {
 }
 .parent {
     border-radius: 1rem;
-    /* border: 3px solid var(--reddishpink); */
     overflow: hidden;
     position: relative;
 }
@@ -249,17 +248,7 @@ body {
 .parent:hover .child {
     transform: scale(1.2);
 }
-/* .gc1 {
-    width: 100%;
-    height: 60%;
-    position: absolute;
-    top: 0;
-    transition: all 1s;
-}
-.parent:hover .gc1 {
-    background-color: rgb(7, 7, 102);
-    opacity: 0.5;
-} */
+
 .gc1 {
     width: 100%;
     height: 40%;
