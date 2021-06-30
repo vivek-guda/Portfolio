@@ -232,7 +232,7 @@ body {
     background-image: url(./images/emoji.jpg);
 }
 .parent {
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     overflow: hidden;
     position: relative;
 }
