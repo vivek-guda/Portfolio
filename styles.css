@@ -126,6 +126,10 @@ body {
     text-align: center;
 }
 
+.container-2 {
+    margin-top: 7.5rem;
+}
+
 .section {
     padding: 2rem 0 4rem 0;
     margin: 1rem 2rem;
